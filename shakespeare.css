@@ -1,11 +1,11 @@
-
+/* speech: Style for character speech */
 .speech {
     font-family: "Georgia", serif;
     font-size: 16px;
-    color: black;
+    color: rgba(0, 0, 0, 0.893);
 }
 
-
+/* stage-direction: Style for stage directions */
 .stage-direction {
     font-family: "Courier New", monospace;
     font-size: 14px;
@@ -15,12 +15,13 @@
     font-style: italic;
 }
 
+/* Hover effect for stage-direction */
 .stage-direction:hover {
     background-color: #dcdcdc;
     color: darkred;
 }
 
-
+/* name: Style for character names */
 .name {
     font-family: "Arial", sans-serif;
     font-size: 18px;
@@ -28,15 +29,28 @@
     color: black;
 }
 
-
+/* Character-specific styles */
 .kent {
     color: darkblue;
 }
 
 .gloucester {
-    color: darkgreen;
+    color: rgb(13, 17, 13);
 }
 
 .edmund {
     color: darkred;
+}
+
+/* Add more character styles below as needed */
+.imogen {
+    color: darkgreen;
+}
+
+.pisanio {
+    color: goldenrod;
+}
+
+.iachimo {
+    color: purple;
 }
