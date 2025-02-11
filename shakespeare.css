@@ -70,15 +70,15 @@ body {
 .character-table {
     width: 100%;
     border-collapse: collapse;
-    margin-top: 20px;
-    border: 1px solid #ddd;
-    background-color: #f9f9f9;
+    margin-top: 30px;
+    border: 1px solid #0f0909;
+    background-color: #c5e1e6;
 }
 
 .character-table th, .character-table td {
     padding: 10px;
     text-align: center;
-    border: 1px solid #ddd;
+    border: 1px solid #0f0404;
 }
 
 .character-table th {
