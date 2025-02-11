@@ -1,8 +1,16 @@
+/* General styling for the play */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+}
+
 /* speech: Style for character speech */
 .speech {
     font-family: "Georgia", serif;
     font-size: 16px;
     color: rgba(0, 0, 0, 0.893);
+    margin-bottom: 10px;
 }
 
 /* stage-direction: Style for stage directions */
@@ -27,6 +35,7 @@
     font-size: 18px;
     font-weight: bold;
     color: black;
+    margin-top: 15px;
 }
 
 /* Character-specific styles */
@@ -42,15 +51,18 @@
     color: darkred;
 }
 
-/* Add more character styles below as needed */
-.imogen {
+.king-lear {
     color: darkgreen;
 }
 
-.pisanio {
-    color: goldenrod;
+.goneril {
+    color: purple;
 }
 
-.iachimo {
-    color: purple;
+.regan {
+    color: darkorange;
+}
+
+.cordelia {
+    color: darkviolet;
 }
