@@ -1,11 +1,11 @@
-/* General Speech Styling */
+
 .speech {
     font-family: "Georgia", serif;
     font-size: 16px;
     color: black;
 }
 
-/* Stage Direction Styling */
+
 .stage-direction {
     font-family: "Courier New", monospace;
     font-size: 14px;
@@ -20,7 +20,7 @@
     color: darkred;
 }
 
-/* Character Name Styling */
+
 .name {
     font-family: "Arial", sans-serif;
     font-size: 18px;
@@ -28,7 +28,7 @@
     color: black;
 }
 
-/* Character-Specific Colors */
+
 .kent {
     color: darkblue;
 }
